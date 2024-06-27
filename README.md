@@ -16,4 +16,4 @@ The Auto Clicker browser extension automatically clicks buttons on web pages tha
 1. **Clone or Download the Repository**:
    Clone the repository or download the zip file and extract it.
    ```bash
-   git clone https://github.com/your-username/auto-clicker-extension.git
+   git clone https://github.com/Zarjevski/AutoClicker
